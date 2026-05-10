@@ -17,3 +17,18 @@ Set up a Windows 11 virtual machine using virtualization software.
 
 ## Resolution
 - Enabled virtualization in BIOS
+
+## Outcome
+- Successfully created and booted Windows 11 VM
+- Verified internet connectivity
+
+## Key Concepts Learned
+- Virtualization basics
+- Resource allocation (CPU/RAM)
+- OS installation process
+
+## Screenshots
+![VM Setup](vm-setup.png)
+![Windows Installed](desktop.png)
+
+
