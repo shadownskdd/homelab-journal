@@ -1,0 +1,24 @@
+## Objective
+Set up an Ubuntu Desktop virtual machine in VMware.
+
+## Tools Used
+- VMware Workstation
+- Ubuntu Desktop ISO
+
+## Steps Performed
+1. Created Ubuntu VM in VMware
+2. Assigned 4GB RAM, 2 CPU cores, and 50GB storage
+3. Installed Ubuntu Desktop
+4. Ran system updates
+5. Installed open-vm-tools
+6. Created a clean snapshot
+
+## Outcome
+- Successfully deployed Ubuntu VM
+- Verified internet access
+- Confirmed VMware integration features worked
+
+## Key Concepts Learned
+- Linux VM creation
+- Package updates with apt
+- Snapshot management
