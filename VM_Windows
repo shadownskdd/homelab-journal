@@ -1,0 +1,19 @@
+## Objective
+Set up a Windows 11 virtual machine using virtualization software.
+
+## Tools Used
+- VirtualBox / VMware Workstation Player
+- Windows 11 ISO
+
+## Steps Performed
+1. Installed virtualization software
+2. Created virtual machine (4GB RAM, 2 CPUs, 64GB storage)
+3. Attached Windows 11 ISO
+4. Installed Windows OS
+5. Created local user account
+
+## Issues Encountered
+- Example: VM would not start due to virtualization disabled
+
+## Resolution
+- Enabled virtualization in BIOS
