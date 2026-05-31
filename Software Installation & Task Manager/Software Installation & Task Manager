@@ -1,0 +1,38 @@
+# Software Installation & Task Manager
+
+## Objective
+Practice software installation, removal, and process management in Windows 11.
+
+## Tools Used
+- Windows 11
+- Google Chrome
+- Notepad++
+- Task Manager
+- Event Viewer
+
+## Steps Performed
+1. Installed Google Chrome
+2. Installed Notepad++
+3. Verified installed applications
+4. Used Task Manager to monitor resources
+5. Ended running processes
+6. Uninstalled software
+7. Reviewed Event Viewer logs
+
+## Outcome
+Successfully managed software installation and removal while learning how to troubleshoot applications using Task Manager.
+
+## Screenshots
+
+chrome-installed.png
+
+task-manager.png
+
+end-task.png
+
+## Key Concepts Learned
+- Software installation
+- Software removal
+- Process management
+- CPU and memory monitoring
+- Event Viewer basics
