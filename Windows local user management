@@ -1,0 +1,30 @@
+# Windows Local User Management
+
+## Objective
+Practiced creating and managing local Windows user accounts in a Windows 11 VM.
+
+## Tools Used
+- VMware Workstation
+- Windows 11 Pro
+- Computer Management
+- Local Users and Groups
+
+## Steps Performed
+1. Created local users: jsmith, mjones, helpdesk
+2. Reset a user password
+3. Disabled a user account
+4. Tested login behavior
+5. Added and removed a user from the local Administrators group
+
+## Issues Encountered
+- None
+
+## Outcome
+Successfully practiced basic Windows account management tasks commonly used in help desk and desktop support roles.
+
+## Key Concepts Learned
+- Local user accounts
+- Password resets
+- Account disabling
+- Administrator group membership
+- Least privilege
